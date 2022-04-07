@@ -1,0 +1,29 @@
+.topnav{
+    margin-top: 10px;
+    /* height: 50px; */
+    border: 2px dotted white;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(56, 56, 56);
+}
+
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 50px;
+    text-decoration: none;
+  /* width: 100px;
+  margin: 10px;
+  line-height: 30px;
+  font-size: 15px; */
+}
+
+ a{
+    color: white;
+}
+a:hover{
+    background-color: black;
+    color: yellow;
+}
