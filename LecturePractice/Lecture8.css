@@ -1,0 +1,36 @@
+div{
+    border:2px dashed blue;
+    padding-left: 5px;
+    margin: 5px;
+}
+#first{
+    background-color: rgb(167, 193, 243);;
+}
+.pinkbcolor{
+    background-color: lightpink;
+}
+.greenbcolor{
+    background-color: lightgreen;
+}
+#super{
+    text-decoration: underline;
+}
+.shout{
+    color: red;
+}
+#topMenu li{
+    display: inline;
+}
+#topMenu a{
+    color:limegreen;
+    text-decoration: underline;
+    font-size: 3em ;
+}
+#topMenu a:hover{
+    color:rgb(0, 85, 0);
+    text-decoration: none;
+    font-size: 3.5em ;
+}
+p::first-letter{
+    font-size: 3em;
+}

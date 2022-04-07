@@ -1,0 +1,63 @@
+div{
+    background-image:url('./isdp/back2cc.jfif') ;
+    /* border: 2px solid red; */
+    margin: 50px;
+    color: rgb(163, 165, 255);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+}
+#top{
+    color:rgb(163, 165, 255);
+    text-align: center;
+}
+#container h1{
+    /* background-color:rgb(73, 73, 255) ; */
+
+}
+#container{
+
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow: hidden;
+    min-height: 200px;
+    
+}
+#right{
+    text-decoration: darkblue;
+    width: 20%;
+    /* background-color: silver; */
+    float: right;
+    margin: 20px;
+    min-height: 200px;
+}
+#left{
+    text-decoration: darkblue;
+    width: 20%;
+    /* background-color: skyblue; */
+    float: left; 
+    margin: 20px;
+    min-height: 200px;
+}
+#content{
+    text-decoration: darkblue;
+    width: 40%;
+    /* background-color: rgb(101, 243, 120); */
+    float:left;
+    box-align:center;
+    max-height: 200px;
+    overflow: hidden;
+    
+}
+#w3{
+    width: 100px;
+    float:right;
+    color: blue;
+    overflow: hidden;
+}
+#content p{
+    overflow:hidden;
+    color
+}
